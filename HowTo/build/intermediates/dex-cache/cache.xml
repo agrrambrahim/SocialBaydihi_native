@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_daaefa7afc580c37cf1a6c5829974681c20cb010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58a3043ff0f8d98128c9b2d82d7d579c39a6cdec">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-core-4.32.0_eb73a0465727c44f34dc9a0660c768a0984fa8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_2b482b3c47a44f95e9b6db7ae9f2ae8ce9b814ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_5f7cc77af8631b748cb3c821c5f14f7d7b753fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.4_74e6c5109c2eeac10b2db5568dade314c93d0256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_fe30767fa465cd3984c16ae2eef59b30fcf733fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_fd35b877b8690264499b12c862b833e53dec0d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.github.arimorty\floatingsearchview\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.github.arimorty-floatingsearchview-2.0.3_e29a432f70e6f45661d88941d03dbb02f59f88eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-messenger\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-messenger-4.32.0_053c3347fe2adfbcca8de43cf9eb14979913dee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_75d4d1308f48bccf96ef2936dda3507fe5f65469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_2941d82bc1ae039e3e47706b8ac20a67ba9e819e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.1_767d320b6d3001abc8256ad333f2061d2a40e814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.yalantis\ucrop\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="515960f41b2032bbff45af39c0c9628db4956d3e">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.yalantis-ucrop-2.2.0_bfa2f3022fb737dc598cd0f183846aef7e1b7918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_027a7c23ec2cadb499492aa6d654982af9e6d317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_c536e93a4c25c46b1447504b4e93dd70c22e5889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\core-3.3.0_28101a1a97c8c64eaec75f649830ae6bbdfb3bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.8.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f910ce4152cf5b205ee2630dc2e12d2803e1e63">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.8.1_b4e882d36e9e4ac732300aa6b36a50f8ebd1d29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_c796befd2ecd6dd983274d4ca8ce7f8297cf0b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.2_c844f8848502eb249140f69239066234c8e39b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.2.0_6160a14917226dd83f7e9ad754f32a644f188ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_deeb27b8e9ff6d3ae28201172c2d0b3130d7ee54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.0\96a07041a11a09cf578892932d7511e1e11e3b6c\kotlin-stdlib-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="96a07041a11a09cf578892932d7511e1e11e3b6c">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.0_f9522f21196da50bf1026417450f864a6cf115d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\common-1.0.3_3e58c47d8d80f61dcf4b800f17eea85e8bc15eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\customtabs\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-27.0.2_20d14e7aba206bd86a8cd210343386ee288ae5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\common-1.0.0_689442ae63cc9e05b8f85335e2ffec34826d8614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.mikepenz\actionitembadge\3.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f6c67ba35cee00eedb662516ac7a30e2fcf6cc">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.mikepenz-actionitembadge-3.3.1_3c792ea611a6a358e2b1a36599b3c5727a242985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.2_998e9ebec295969d3bd99a9c6d3ff70e60798786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.2_2acbb12883f0159d1a1ea712f87a340357e72ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.jakewharton.picasso\picasso2-okhttp3-downloader\1.0.2\74a586d03a233d356290983d1ef23a64c1d122b2\picasso2-okhttp3-downloader-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="74a586d03a233d356290983d1ef23a64c1d122b2">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\picasso2-okhttp3-downloader-1.0.2_066f3061e017e4a6000f124127eccb30c6408eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\annotations-13.0_05de115cb7c0270c2bbe4a0b5bfe96ee2f7df786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.1_b38f8f1dd3cdb030fb89d7bf9355fce8298eb1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.jakewharton.timber\timber\3.1.0\3ab2aedaeb4bfa698d0021cb843b2040fbf57fc\timber-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\timber-3.1.0_42130a9123720ae6d61c0990ec32afd4d2b3f1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.2_03a589a05648bf9f9ce213123fb0d2eb2507bd90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\design\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.1_8702f14305098269a35cc9e850c237bbf5ce4b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.1_48431342c1523cfb751ee7e4a373d3535f46d98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.ruslankishai\unmaterialtabs\0.1a\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c050388bc78523f0e77bda74bddd1859c1dd0f7">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.ruslankishai-unmaterialtabs-0.1a_0f47cdd3c7e89cd0d2acf8c4ca3f6e1e434dee7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.1_6c69c502ead1664fed672ca1581f26a03557c63a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.1_015f448b95356f4b5ef222c36111abc21657b042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.bartoszlipinski\viewpropertyobjectanimator\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.bartoszlipinski-viewpropertyobjectanimator-1.2.0_c1fd953dc2c3506032f83052c6ce910310c541b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\AppData\Local\Android\Sdk\build-tools\26.0.1\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e81b059b564e20e1430f42fb38469a4d8f118f0">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\renderscript-v8_9e24970d72a2c7f185a0128095400ee27b9c1c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.32.0_a1895e035843dd3da08aabe691c71ad4e3e15f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.2_896b6ce2600271ae0a16c2f4fbe87175645c5aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-27.0.2_b2594a1e8d04916eab587aa3fad8dd62ae6028d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.2_7a4b10d0030ae4d8a0481d769665c3c32e89db47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\gson-2.6.2_9eff148c1e2e95f66526c2b872f000e9a7066e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_283f6aa8f6da582222a88dd7f7adbb8e84b4ea88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-login\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39c51fbcdfbe3a81c923cfd1159b27bf28738933">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-login-4.32.0_70f0627310a744fc97b3a8abd3c8ce0320f2a63c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-share\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-share-4.32.0_af3a1f1ab3719a73fab47304b8af3a1cf9c6e710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d127661c786c056316cda1fe4d4cfb942b2d00c">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-common-4.32.0_68c6df6f8c26fa16def9dd48d46acf80b3c78751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.3_5b8987541c9098d45d222c883de86990c1fdfe9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-applinks\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-applinks-4.32.0_1870799e0b9e0c171fa9302dad61b86ad0d54e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-27.0.2_213b9e799deca29a607616296750c21ed580605c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-v4\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-27.0.2_7a37b834075b4bd64996dfa89734e7a4f6653a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_bb71e09e2c3c8cac1b293d8c2529b23c6af66d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.2_7eadd3caaca12c3c9e4dbc66a65b59804a7e0856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_f443c17bed28f0ece69fe4d1d490a18a59cb5c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-places\4.32.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10d66e720416b2d4e5e16b4d3f5c98989b4e1c15">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-places-4.32.0_2c2640ae22ab5e776dec1248fbd8edb5a35dad90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bagrram\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\ext\upWork\socialmaterial-design\HowTo\app\build\intermediates\pre-dexed\debug\okio-1.9.0_86bf2b0ed86e13ba831c322e5a116f78353cc6cf.jar" />
+    </item>
+
+</items>
